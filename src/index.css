@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+#root{
+  padding: 20px;
+  width: 50%;
+  min-width: 400px;
+  margin:auto;
+  box-sizing: border-box;
+}
