@@ -19,6 +19,7 @@
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4"
   },
+  "homepage": "https://Murasame0721.github.io/novel-ai-tag-generator/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
